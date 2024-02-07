@@ -7,7 +7,7 @@ I'm Yash, a passionate FrontEnd Dev based in Kolhapur.
 - 👨‍💻 I'm currently working on Document verfication using blockchain for Gov Orgs.
 - 🌱 I'm currently learning Angular 17 , Blockchain and DataAnalytics.
 - 💡 I'm interested in Use of Blockchain for more purposes.
-- 📫 How to reach me: kulkarniyash7@outlook.com | twitter.com/kulkarniyash7
+- 📫 How to reach me: kulkarniyash7@outlook.com | https://www.twitter.com/kulkarniyash7
 
 ## 🔧 Technologies & Tools
 
@@ -28,7 +28,7 @@ I'm Yash, a passionate FrontEnd Dev based in Kolhapur.
 
 ## 📈 My GitHub Contributions
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarniyash7&layout=compact)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarniyash7&layout=big)](https://github.com/your-username)
 
 ## 🤝 Let's Connect
 
