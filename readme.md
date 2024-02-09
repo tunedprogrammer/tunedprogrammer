@@ -28,7 +28,7 @@ I'm Yash, a passionate FrontEnd Dev based in Kolhapur.
 
 ## 📈 My GitHub Contributions
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarniyash7&layout=big)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarniyash7&layout=small)](https://github.com/your-username)
 
 ## 🤝 Let's Connect
 
