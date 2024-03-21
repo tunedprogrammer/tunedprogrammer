@@ -9,7 +9,6 @@ I'm Yash, a passionate FrontEnd Dev based in Kolhapur.
 - 💡 I'm interested in Use of Blockchain for more purposes.
 - 📫 How to reach me: kulkarniyash7@outlook.com | https://www.twitter.com/kulkarniyash7
 
-## 🔧 Technologies & Tools
 
 ## 🔧 Technologies & Tools
 
