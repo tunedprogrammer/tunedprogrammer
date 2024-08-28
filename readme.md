@@ -23,16 +23,16 @@ I'm Yash, a passionate FrontEnd Dev based in Kolhapur.
 
 ## 📊 GitHub Stats
 
-![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=kulkarniyash7&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunedprogrammer&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📈 My GitHub Contributions
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarniyash7&layout=compact)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunedprogrammer&layout=compact)](https://github.com/your-username)
 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/kulkarniyash7)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/kulkarniyash7)
+
 
 Feel free to explore my repositories and don't hesitate to connect! 😊
 Let's collaborate and learn in public.
