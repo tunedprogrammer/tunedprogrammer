@@ -31,7 +31,7 @@ I'm Yash, a passionate FrontEnd Dev based in Kolhapur.
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/kulkarniyash7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/yashkulkarni5)
 
 
 Feel free to explore my repositories and don't hesitate to connect! 😊
