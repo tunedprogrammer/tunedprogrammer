@@ -1,13 +1,13 @@
 # Hello, World! 👋
 
-I'm Yash, a passionate FrontEnd Dev based in Kolhapur.
+I'm Yash, a passionate Developer based in Kolhapur.
 
 ## 🚀 About Me
 
 - 👨‍💻 I'm currently working on Document verfication using blockchain for Gov Orgs.
 - 🌱 I'm currently learning Angular 17 , Blockchain and DataAnalytics.
 - 💡 I'm interested in Use of Blockchain for more purposes.
-- 📫 How to reach me: kulkarniyash7@outlook.com | https://www.twitter.com/kulkarniyash7
+- 📫 How to reach me: kulkarniyash4410@gmail.com.com |
 
 
 ## 🔧 Technologies & Tools
