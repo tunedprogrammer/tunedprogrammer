@@ -7,7 +7,7 @@ I'm Yash, a passionate Developer based in Kolhapur.
 - 👨‍💻 I'm currently working on Document verfication using blockchain for Gov Orgs.
 - 🌱 I'm currently learning Angular 17 , Blockchain and DataAnalytics.
 - 💡 I'm interested in Use of Blockchain for more purposes.
-- 📫 How to reach me: kulkarniyash4410@gmail.com.com |
+- 📫 How to reach me: kulkarniyash4410@gmail.com|
 
 
 ## 🔧 Technologies & Tools
@@ -31,7 +31,7 @@ I'm Yash, a passionate Developer based in Kolhapur.
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/yashkulkarni5)
+www.linkedin.com/in/yashkulkarni5
 
 
 Feel free to explore my repositories and don't hesitate to connect! 😊
