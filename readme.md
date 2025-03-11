@@ -27,7 +27,12 @@ I'm Yash, a passionate Developer based in Kolhapur.
 
 ## 📈 My GitHub Contributions
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunedprogrammer&layout=compact)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunedprogrammer&layout=compact)](https://github.com/tunedprogrammer)
+
+
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=tunedprogrammer&color=blue)
+
 
 ## 🤝 Let's Connect
 
