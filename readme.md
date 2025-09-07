@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Yash, a passionate Developer based in Kolhapur.
+I'm Yash, a passionate Developer based in Pune.
 
 ## 🚀 About Me
 
